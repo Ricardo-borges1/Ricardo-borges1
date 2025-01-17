@@ -1,11 +1,12 @@
 ### Sobre Mim
 
-Olá, me chamo Ricardo Borges! Sou Técnico em Desenvolvimento de Sistemas, formado pelo SENAI Jandira e estou sempre em busca de crescimento e aprendizado na área de Desenvolvimento de Software.
+Olá, me chamo Ricardo Borges! Sou Técnico em Desenvolvimento de Sistemas, formado pelo SENAI Jandira, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP).
 
-Aqui no meu GitHub, você encontrará um pouco sobre os projetos que desenvolvi e as tecnologias que estou explorando. Sinta-se à vontade para conferir e acompanhar minha jornada!
+Estou em busca de uma oportunidade de emprego para continuar crescendo na área de Desenvolvimento de Software e colocar em prática tudo o que venho aprendendo.
+
+Aqui no meu GitHub, você encontrará projetos que desenvolvi e tecnologias que estou explorando. Sinta-se à vontade para conferir meu trabalho e acompanhar minha jornada!
 
 🚀 Vamos construir o futuro juntos!
-
 <!--
 **Ricardo-borges1/Ricardo-borges1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
